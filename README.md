@@ -1,6 +1,7 @@
 # Speech To Text
-<img width="1919" height="1026" alt="Ekran görüntüsü 2025-10-26 215354" src="https://github.com/user-attachments/assets/6ac5ca9a-9039-4a34-8c22-f755f6d4a560" />
-<img width="1919" height="1024" alt="Ekran görüntüsü 2025-10-26 215430" src="https://github.com/user-attachments/assets/6aad895d-b5ba-42b0-907f-5c3128fd6c68" />
+
+<img width="497" height="442" alt="Ekran görüntüsü 2025-10-26 215430" src="https://github.com/user-attachments/assets/e2faa071-39a0-4e41-b582-16b673d55bb9" />
+<img width="500" height="433" alt="Ekran görüntüsü 2025-10-26 215354" src="https://github.com/user-attachments/assets/43804cae-57d0-46b9-8401-043f8efc39ea" />
 
 
 # 🗣️ Speech-To-Text Çok Dilli Uygulama
